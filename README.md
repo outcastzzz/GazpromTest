@@ -1,4 +1,6 @@
 выполнил - Сергеев Арсений Александрович
+
+
 stack: 
   language - kotlin, 
   navigation - decompose,
